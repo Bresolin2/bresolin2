@@ -1,4 +1,4 @@
-### Hi there 👋
+My name is Lucas Bresolin and this is my repository on GitHub! 
 
 <!--
 **Bresolin2/bresolin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
