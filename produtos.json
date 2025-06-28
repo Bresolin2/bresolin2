@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nome": "Ração para Cães",
+    "preco": 79.90
+  },
+  {
+    "id": 2,
+    "nome": "Brinquedo para Gatos",
+    "preco": 25.50
+  },
+  {
+    "id": 3,
+    "nome": "Aquário 20L",
+    "preco": 199.99
+  }
+]
